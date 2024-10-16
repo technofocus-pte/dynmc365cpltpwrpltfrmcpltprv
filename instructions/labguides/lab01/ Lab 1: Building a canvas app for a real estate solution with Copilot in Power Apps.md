@@ -20,12 +20,11 @@ OpenAI to generate data for the lab and the data changes daily.
 3.  On the Home page in Power Apps, in the center text field, enter the
     following prompt to search for an AI-generated table:
 
-> build an app to manage real estate showings
->
-> Select the **Send** button.
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image2.png)
+     build an app to manage real estate showings
+    
+     Select the **Send** button.
+
+> ![A screenshot of a computer Description automatically generated](./media/image2.png)
 
 4.  After Copilot AI generates a table based on your prompt, look
     through the table to view the columns that are created for the start
